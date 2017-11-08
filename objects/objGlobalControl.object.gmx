@@ -130,10 +130,6 @@ FMODInit(5, false); //If you somehow have over 200 pieces of music, increase thi
 global.msc = -1;
 global.mscName = '';
 
-//Collectibles
-entryScores();
-allCollectibles();
-
 global.keyCoinTotal = 0;
 global.keyCoinCollected = 0;
 global.keyNumber = 0;

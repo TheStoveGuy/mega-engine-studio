@@ -142,6 +142,7 @@
         <filename>WeaponGet.ogg</filename>
       </datafile>
     </datafiles>
+  </datafiles>
   <NewExtensions/>
   <sounds name="sound">
     <sounds name="Misc">
@@ -615,7 +616,6 @@
           <sprite>sprites\sprCoswallown</sprite>
         </sprites>
         <sprites name="Mini Boss">
-          <sprite>sprites\sprWhopperStand</sprite>
           <sprite>sprites\sprWhopper</sprite>
           <sprite>sprites\sprWhopperEyes</sprite>
           <sprite>sprites\sprWhopperRings</sprite>
@@ -2100,7 +2100,6 @@
         <objects name="Minibosses">
           <object>objects\objKabatoncue</object>
           <object>objects\objWhopper</object>
-          <object>objects\objWhopperStand</object>
           <object>objects\objKabatoncuePlatform</object>
           <object>objects\objEscaroo</object>
           <object>objects\objMoby</object>
@@ -2692,7 +2691,6 @@
       <object>objects\objLeverField_lagless</object>
       <object>objects\objLadderLever_NaOH</object>
       <objects name="Hub Objects">
-        <object>objects\objEddieShopControl</object>
         <object>objects\objNPC_motile</object>
         <object>objects\objNPC</object>
       </objects>
